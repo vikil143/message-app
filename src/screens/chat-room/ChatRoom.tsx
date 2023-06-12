@@ -1,7 +1,7 @@
 import React from 'react';
 import {View, Text} from 'react-native';
 
-function ChatRoom() {
+function ChatRoomScreen() {
   return (
     <View>
       <Text>Chat Room</Text>
@@ -9,4 +9,4 @@ function ChatRoom() {
   );
 }
 
-export default ChatRoom;
+export default ChatRoomScreen;
